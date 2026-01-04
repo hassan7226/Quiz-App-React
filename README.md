@@ -1,16 +1,33 @@
-# React + Vite
+🧠 Quiz App – React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive Quiz Application built using React.js.
+This app allows users to attempt multiple-choice questions, select answers, and view their final score at the end.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎯 Multiple-choice quiz questions
 
-## React Compiler
+🖱️ Click-based answer selection
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+📊 Score calculation at the end
 
-## Expanding the ESLint configuration
+🔄 Restart quiz functionality
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚡ Fast and responsive UI
+
+🛠️ Tech Stack
+
+React.js
+
+JavaScript (ES6)
+
+HTML5
+
+CSS3
+<img width="959" height="509" alt="image" src="https://github.com/user-attachments/assets/7d74acbc-1079-4ba0-ba27-382f95425eb5" />
+<img width="959" height="475" alt="image" src="https://github.com/user-attachments/assets/a2aee600-ad87-498d-80cf-9f696b9d3337" />
+<img width="959" height="476" alt="image" src="https://github.com/user-attachments/assets/292e1dd9-ff41-4802-8130-1a73b3df7590" />
+
+
+If you like this project, please ⭐ star the repository — it helps a lot!
+
