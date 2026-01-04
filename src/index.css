@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(#DBC7FF, #19006C);
+    font-family: poppins;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
